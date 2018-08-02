@@ -3,6 +3,7 @@
   "main": "lib/index.js",
   "license": "Apache-2",
   "repository": "https://github.com/iot-democore/carbon-addons-react-grid",
+  "author": "Eric Lowry <elowry@us.ibm.com>",
   "files": [
     "lib"
   ],
