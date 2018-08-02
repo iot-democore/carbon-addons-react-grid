@@ -1,7 +1,8 @@
 {
-  "name": "carbon-addons-boilerplate-react",
+  "name": "carbon-addons-react-grid",
   "main": "lib/index.js",
   "license": "Apache-2",
+  "repository": "https://github.com/iot-democore/carbon-addons-react-grid",
   "files": [
     "lib"
   ],
