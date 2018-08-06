@@ -1,1 +1,1 @@
-export Grid from './components/Grid';
+export { Grid, Row, Col } from './components/Grid';
